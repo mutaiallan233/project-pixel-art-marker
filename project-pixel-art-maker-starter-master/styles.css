@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ykJ26r0J81BuV5v_9zYxi0E6rb171sOtOmxJYxy4LTPUKKTm');
 }
 
 h1 {
@@ -37,4 +38,9 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+.thank {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: serif;
 }
